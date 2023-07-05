@@ -1,0 +1,25 @@
+.Playlist input {
+    border: none;
+    background-color: #2c514ca6;
+    color: hwb(327 77% 13%);
+    font-size: 30px;
+    border-radius: 5px;
+    height: 60px;
+    display: inline-block;
+    padding: 0 10px;
+}
+
+.PlaylistButt {
+    background-color: #2c514c00;
+    color: white;
+    font-size: 25px;
+    transition: 500ms;
+    width: 122px;
+    height: 45px;
+    border-radius: 5px;
+    border: none;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    cursor: 'pointer'
+}
